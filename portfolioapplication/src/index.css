@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url("./Fonts/Poppins-Light.ttf") format('opentype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000;
+}
+
+code {
+  font-family: 'Poppins', sans-serif;
+}
